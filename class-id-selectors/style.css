@@ -3,8 +3,9 @@
 .odd { 
     font-family:Verdana, "DejaVu Sans", sans-serif ;
     background-color: rgba(243, 60, 60, 0.542);
-    /*  Variety of fonts and a light pink  background
-    for odd numbered elements*/
+    /*  Variety of fonts and a light pink background
+    for odd numbered elements. Initially included "Dejavu Sans" without
+    proper quotations, corrected in latest change */
 }
 
 #element-2 {
