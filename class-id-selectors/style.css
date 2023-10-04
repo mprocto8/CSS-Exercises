@@ -1,7 +1,7 @@
 /* Style.css practice file */
 
 .odd { 
-    font-family:Verdana, DejaVu Sans, sans-serif ;
+    font-family:Verdana, "DejaVu Sans", sans-serif ;
     background-color: rgba(243, 60, 60, 0.542);
     /*  Variety of fonts and a light pink  background
     for odd numbered elements*/
@@ -21,7 +21,7 @@
 #element-4{
     background-color: rgba(58, 216, 58, 0.938);
     font-size: 24px;
-    font-weight: 900;
+    font-weight: bold;
     /* Light green background and bold, larger, font for element 4. 
     Tested font weight at 700 initially and later changed to 900 for enhanced effect */
 }
