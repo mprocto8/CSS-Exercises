@@ -1,0 +1,16 @@
+/* Style CSS */
+
+.button {
+    font-family: "Helvetica", "Times New Roman" sans-serif;
+    font-size: 28px;
+    /* Common set of rules for all buttons to be included on page*/
+}
+
+.one{
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+}
