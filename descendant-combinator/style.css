@@ -1,8 +1,12 @@
 /* Descendant Combinator Practice */
 
-.container {
+.container .text {
     color: red;
     background-color: yellow;
     font-size: 20px;
     text-align: center;
 }
+
+/* While in the context of this lesson adding only .container 
+    will result in a similar outcome it is necessary to remember 
+    to add the child ( .text)for best practice */
