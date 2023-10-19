@@ -2,7 +2,7 @@
 
 For this first exercise, simply edit the `style.css` file so that the divs look like the image below. Only edit the CSS where instructed in the file.  You should only have to change the values of the margin and padding for this exercise. You should not have to add or remove properties in the CSS, or touch the HTML.
 
-![outcome](./desired-outcome.png)
+![outcome](https://github.com/TheOdinProject/css-exercises/blob/main/margin-and-padding/01-margin-and-padding-1/desired-outcome.png)
 
 ### Self-check 
 Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
