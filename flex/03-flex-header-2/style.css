@@ -60,4 +60,6 @@ ul {
   justify-content: flex-start;
   gap: 16px;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }
