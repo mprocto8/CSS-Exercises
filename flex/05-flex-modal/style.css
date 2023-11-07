@@ -49,7 +49,6 @@ body {
 .header {
   font-size: larger;
   font-weight: 900;
-
 }
 
 .close-button {
@@ -66,10 +65,14 @@ body {
   border: 1px solid #eee;
   padding: 0;
   margin-left: auto;
+  margin-right: 12px;
 }
 
-.content{
-  
+.text {
+  align-content: flex-start;
+  margin-left: 60px;
+  margin-top: -22px;
+  margin-right: 7px;
 }
 
 button {
@@ -82,10 +85,17 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
+  margin-left: 60px;
 }
 
 button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+button.continue, 
+button.cancel {
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
