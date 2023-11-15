@@ -30,9 +30,15 @@ input {
   margin-bottom: 16px;
 }
 
+a {
+  color: rgb(59, 59, 59);
+  text-decoration: none;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 5px;
 }
 
 .content {
@@ -45,5 +51,11 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
-  background-color: #eee;
+  background-color: #eeeeee;
+}
+
+.left-links, 
+.right-links {
+  display: flex;
+  gap: 20px;
 }
