@@ -18,6 +18,7 @@ button {
   font-family: Roboto, sans-serif;
   border: none;
   border-radius: 8px;
+  padding: 8px 12px 8px 12px;
   background: #eee;
 }
 
@@ -39,4 +40,10 @@ input {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eee;
 }
