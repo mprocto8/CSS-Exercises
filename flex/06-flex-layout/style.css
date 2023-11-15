@@ -62,4 +62,9 @@ ul {
 .right-links {
   display: flex;
   gap: 20px;
+  margin: 12px 8px 12px 8px;
+}
+
+.left-links {
+  margin-left: -24px;
 }
